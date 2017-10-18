@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by magnus on 2017-09-27.
  */
-public class fileCopy {
+public class FileCopy {
     public static void main(String[] args) {
         String filename;
         char copyType;
@@ -92,3 +92,4 @@ public class fileCopy {
         return result;
     }
 }
+
